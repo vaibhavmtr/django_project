@@ -6,7 +6,7 @@ pip install uv
 ... Now add uv at start of installing anything
 ```
 uv pip install Django 
-django-admin startproject commerce_app
-cd commerce_app
+django-admin startproject myproject
+cd myproject
 python manage.py runserver
 ```
